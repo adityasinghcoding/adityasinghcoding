@@ -87,10 +87,10 @@
   <a href="https://www.linkedin.com/in/adityasingh2022" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+<!--   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://[adityasinghcoding](https://github.com/adityasinghcoding/)" target="_blank">
+  </a> -->
+  <a href="https://github.com/adityasinghcoding/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
 <!--   <a href="https://dev.to/your-devto" target="_blank">
