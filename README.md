@@ -6,22 +6,63 @@
 
 <h2 align="center">🏆 Top Projects</h2>
 
+<!-- Custom Responsive Project Cards Grid -->
 <div align="center">
-  <a href="https://github.com/adityasinghcoding/DataScience_Conceptual_Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=DataScience_Conceptual_Practice&theme=tokyonight&bg_color=000000" />
-  </a>
-  <a href="https://github.com/adityasinghcoding/AI-Content-Moderation-Analysis-Final-Year-Project-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=AI-Content-Moderation-Analysis-Final-Year-Project-&theme=tokyonight&bg_color=000000" />
-  </a>
-  <a href="https://github.com/adityasinghcoding/Transformer-From-Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=Transformer-From-Scratch&theme=tokyonight&bg_color=000000" />
-  </a>
-  <a href="https://github.com/adityasinghcoding/letta-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=letta-AI&theme=tokyonight&bg_color=000000" />
-  </a>
-  <a href="https://github.com/adityasinghcoding/adityasinghcoding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=adityasinghcoding&theme=tokyonight&bg_color=000000" />
-  </a>
+
+<table style="border-spacing: 24px 18px; width:90%; margin: 0 auto;">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/adityasinghcoding/DataScience_Conceptual_Practice" target="_blank" style="text-decoration:none;">
+        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:130px;">
+          <span style="font-size:1.3em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> DataScience_Conceptual_Practice</span><br>
+          <span style="color:#89ffe6;">Data Science Documentation Based Practice</span><br>
+          <span style="font-size:.98em;color:#ffb400;"><img src="https://img.icons8.com/fluency/20/000000/jupyter.png" width="18" style="vertical-align:-3px;"/> Jupyter Notebook</span>
+        </div>
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/adityasinghcoding/AI-Content-Moderation-Analysis-Final-Year-Project-" target="_blank" style="text-decoration:none;">
+        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:130px;">
+          <span style="font-size:1.3em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> AI-Content-Moderation-Analysis-Fina...</span><br>
+          <span style="color:#89ffe6;">AI-driven multimodal content moderation system named ACMA to detect and analyze toxicity, inappropriate visuals, and violence in text, images, audio and video.</span><br>
+          <span style="font-size:.98em;color:#e34c26;"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png" width="18" style="vertical-align:-3px;"/> HTML</span>
+        </div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/adityasinghcoding/Transformer-From-Scratch" target="_blank" style="text-decoration:none;">
+        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:130px;">
+          <span style="font-size:1.3em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> Transformer-From-Scratch</span><br>
+          <span style="color:#89ffe6;">I tried to implement LLM Transformer from Scratch</span><br>
+          <span style="font-size:.98em;color:#ffb400;"><img src="https://img.icons8.com/fluency/20/000000/jupyter.png" width="18" style="vertical-align:-3px;"/> Jupyter Notebook</span>
+        </div>
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/adityasinghcoding/letta-AI" target="_blank" style="text-decoration:none;">
+        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:130px;">
+          <span style="font-size:1.3em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> letta-AI</span><br>
+          <span style="color:#89ffe6;">Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.</span><br>
+          <span style="font-size:.98em;color:#3572A5;"><img src="https://img.icons8.com/color/20/000000/python--v1.png" width="18" style="vertical-align:-3px;"/> Python</span>
+        </div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/adityasinghcoding/adityasinghcoding" target="_blank" style="text-decoration:none;">
+        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:100px;width:55%;margin:0 auto;">
+          <span style="font-size:1.22em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> adityasinghcoding</span><br>
+          <span style="color:#89ffe6;">No description provided</span><br>
+          <span style="font-size:.98em;color:#fff;"><img src="https://img.icons8.com/ios-glyphs/16/B5BFFF/star--v1.png" width="16" style="vertical-align:-3px;"/> 1</span>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
