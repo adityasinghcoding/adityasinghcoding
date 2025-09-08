@@ -4,69 +4,6 @@
 
 ---
 
-<h2 align="center">🏆 Top Projects</h2>
-
-<!-- Custom Responsive Project Cards Grid -->
-<div align="center">
-
-<table style="border-spacing: 24px 18px; width:90%; margin: 0 auto;">
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/adityasinghcoding/DataScience_Conceptual_Practice" target="_blank" style="text-decoration:none;">
-        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:130px;">
-          <span style="font-size:1.3em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> DataScience_Conceptual_Practice</span><br>
-          <span style="color:#89ffe6;">Data Science Documentation Based Practice</span><br>
-          <span style="font-size:.98em;color:#ffb400;"><img src="https://img.icons8.com/fluency/20/000000/jupyter.png" width="18" style="vertical-align:-3px;"/> Jupyter Notebook</span>
-        </div>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/adityasinghcoding/AI-Content-Moderation-Analysis-Final-Year-Project-" target="_blank" style="text-decoration:none;">
-        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:130px;">
-          <span style="font-size:1.3em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> AI-Content-Moderation-Analysis-Fina...</span><br>
-          <span style="color:#89ffe6;">AI-driven multimodal content moderation system named ACMA to detect and analyze toxicity, inappropriate visuals, and violence in text, images, audio and video.</span><br>
-          <span style="font-size:.98em;color:#e34c26;"><img src="https://img.icons8.com/color/20/000000/html-5--v1.png" width="18" style="vertical-align:-3px;"/> HTML</span>
-        </div>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/adityasinghcoding/Transformer-From-Scratch" target="_blank" style="text-decoration:none;">
-        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:130px;">
-          <span style="font-size:1.3em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> Transformer-From-Scratch</span><br>
-          <span style="color:#89ffe6;">I tried to implement LLM Transformer from Scratch</span><br>
-          <span style="font-size:.98em;color:#ffb400;"><img src="https://img.icons8.com/fluency/20/000000/jupyter.png" width="18" style="vertical-align:-3px;"/> Jupyter Notebook</span>
-        </div>
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/adityasinghcoding/letta-AI" target="_blank" style="text-decoration:none;">
-        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:130px;">
-          <span style="font-size:1.3em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> letta-AI</span><br>
-          <span style="color:#89ffe6;">Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.</span><br>
-          <span style="font-size:.98em;color:#3572A5;"><img src="https://img.icons8.com/color/20/000000/python--v1.png" width="18" style="vertical-align:-3px;"/> Python</span>
-        </div>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/adityasinghcoding/adityasinghcoding" target="_blank" style="text-decoration:none;">
-        <div align="left" style="background:rgba(24,26,36,0.90);border:1.5px solid #5BC0EB;border-radius:15px;padding:18px 22px;min-width:270px;min-height:100px;width:55%;margin:0 auto;">
-          <span style="font-size:1.22em;font-weight:700;color:#B5BFFF;"><img src="https://img.icons8.com/ios-filled/24/5BC0EB/source-code.png" width="20" style="vertical-align:-3px;"/> adityasinghcoding</span><br>
-          <span style="color:#89ffe6;">No description provided</span><br>
-          <span style="font-size:.98em;color:#fff;"><img src="https://img.icons8.com/ios-glyphs/16/B5BFFF/star--v1.png" width="16" style="vertical-align:-3px;"/> 1</span>
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:0;">
@@ -121,7 +58,7 @@
   <img src="https://github.com/adityasinghcoding/adityasinghcoding/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 <p align="center">
-  <em>Watch the snake eat up my daily contributions!</em>
+  <em>Are you happy to see this ?😢 Snake eating up all my daily contributions!</em>
 </p>
 
 ---
@@ -144,24 +81,24 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:adityabussinesslimited@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/adityasingh2022" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://adityasingh.dev" target="_blank">
+  <a href="https://[adityasinghcoding](https://github.com/adityasinghcoding/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
-  <a href="https://dev.to/your-devto" target="_blank">
+<!--   <a href="https://dev.to/your-devto" target="_blank">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
   <a href="https://www.youtube.com/your-channel" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
+  </a> -->
 </div>
 
 ---
