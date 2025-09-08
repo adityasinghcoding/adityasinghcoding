@@ -1,6 +1,6 @@
-<!-- Profile Header with Animated Typing -->
+<!-- Profile Header with Animated Typing (no letter cut-off) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=5BC0EB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aditya+Singh!;AI+%7C+Data+Science+%7C+Software+Engineering+Enthusiast;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5BC0EB&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Aditya+Singh!;AI+%7C+Data+Science+%7C+Software+Engineering+Enthusiast;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,23 +21,23 @@
 
 <h2 align="center">🏆 Top Projects</h2>
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/adityasinghcoding/DataScience_Conceptual_Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=DataScience_Conceptual_Practice&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=DataScience_Conceptual_Practice&theme=tokyonight&bg_color=00000000" />
   </a>
   <a href="https://github.com/adityasinghcoding/AI-Content-Moderation-Analysis-Final-Year-Project-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=AI-Content-Moderation-Analysis-Final-Year-Project-&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=AI-Content-Moderation-Analysis-Final-Year-Project-&theme=tokyonight&bg_color=00000000" />
   </a>
   <a href="https://github.com/adityasinghcoding/Transformer-From-Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=Transformer-From-Scratch&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=Transformer-From-Scratch&theme=tokyonight&bg_color=00000000" />
   </a>
   <a href="https://github.com/adityasinghcoding/letta-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=letta-AI&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=letta-AI&theme=tokyonight&bg_color=00000000" />
   </a>
   <a href="https://github.com/adityasinghcoding/adityasinghcoding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=adityasinghcoding&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityasinghcoding&repo=adityasinghcoding&theme=tokyonight&bg_color=00000000" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -71,7 +71,7 @@
 <h2 align="center">🐍 Code Streak — Snake Game</h2>
 
 <p align="center">
-  <img src="https://github.com/adityasinghcoding/adityasinghcoding/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/adityasinghcoding/adityasinghcoding/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="background: transparent;"/>
 </p>
 <p align="center">
   <em>Watch the snake eat up my daily contributions!</em>
@@ -81,7 +81,7 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
+<div align="center">
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -100,7 +100,7 @@
   <a href="https://www.youtube.com/your-channel" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-</p>
+</div>
 
 ---
 
