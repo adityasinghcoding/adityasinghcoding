@@ -90,7 +90,7 @@
 <!--   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
   </a> -->
-  <a href="https://github.com/adityasinghcoding/" target="_blank">
+  <a href="[https://github.com/adityasinghcoding/](https://adityasinghcoding.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white">
   </a>
 <!--   <a href="https://dev.to/your-devto" target="_blank">
