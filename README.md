@@ -100,14 +100,3 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a> -->
 </div>
-
----
-
-<h2 align="center">💡 Fun Fact</h2>
-<p align="center"><em>"Great things are done by a series of small things brought together." – Vincent Van Gogh</em></p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5BC0EB&height=120&section=footer"/>
-</p>
