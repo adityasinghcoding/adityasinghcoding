@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=200&section=header&text=Aditya%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Researcher&descAlignY=55&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=120&text=ADITYA%20SINGH&fontAlign=50&fontAlignY=45&fontSize=52&fontColor=00D9FF&desc=AI%20%2F%20ML%20Engineer%20%E2%80%82%C2%B7%E2%80%82%20Builder%20%E2%80%82%C2%B7%E2%80%82%20Researcher&descAlign=50&descAlignY=72&descSize=16&descColor=ffffff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI;Multimodal+ML+Systems;Production-Grade+AI+Pipelines;Research-First+%E2%86%92+Ship-to-Production" alt="Typing SVG" />
 
@@ -171,9 +171,7 @@ Built and evaluated three production-ready ML models across distinct problem typ
 
 <div align="center">
 
-```
-skating on ice taught me precision  ·  AI taught me scale  ·  shipping taught me everything else
-```
+`skating on ice taught me precision  ·  AI taught me scale  ·  shipping taught me everything else`
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=adityasinghcoding&color=00d9ff&style=flat-square&label=Profile+Views)
 
