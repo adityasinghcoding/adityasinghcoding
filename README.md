@@ -1,102 +1,180 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5BC0EB&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Aditya+Singh!;AI+%7C+Data+Science+%7C+Software+Engineering+Enthusiast;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
-</p>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=200&section=header&text=Aditya%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Researcher&descAlignY=55&descAlign=50)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI;Multimodal+ML+Systems;Production-Grade+AI+Pipelines;Research-First+%E2%86%92+Ship-to-Production" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh2022)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://adityasinghcoding.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityabussinesslimited@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7525-0423)
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="44" alt="pytorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="44" alt="tensorflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44" alt="numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="44" alt="pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="44" alt="matplotlib"/>
-  <!-- Seaborn icon fallback: using emoji badge instead -->
-  <img src="https://img.shields.io/badge/Seaborn-183A54?style=for-the-badge&logoColor=white&labelColor=183A54&color=183A54" height="32" alt="seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="44" alt="flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="44" alt="sqlite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode"/>
-</p>
-
-<!-- Professional Skills & Technologies -->
-<p align="center">
-  <strong>Professional Skills & Technologies Used:</strong><br>
-  <span style="background:#22223b;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">Python</span>
-  <span style="background:#2196f3;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">PyTorch</span>
-  <span style="background:#ff6f00;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">TensorFlow</span>
-  <span style="background:#1976d2;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">NumPy</span>
-  <span style="background:#1565c0;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">Pandas</span>
-  <span style="background:#0277bd;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">Matplotlib</span>
-  <span style="background:#183A54;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">Seaborn</span>
-  <span style="background:#444;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">Flask</span>
-  <span style="background:#ffb300;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">HuggingFace</span>
-  <span style="background:#ff9800;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">spaCy</span>
-  <span style="background:#00bcd4;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">OpenCV</span>
-  <span style="background:#4caf50;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">Linux</span>
-  <span style="background:#d4af37;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">SQL/SQLite</span>
-  <span style="background:#e65100;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">HTML5</span>
-  <span style="background:#0277bd;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">CSS3</span>
-  <span style="background:#f7df1e;color:#222;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">JavaScript</span>
-  <span style="background:#0078d4;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">VS Code</span>
-  <span style="background:#f05032;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">Git</span>
-  <span style="background:#24292f;color:#fff;padding:4px 12px;border-radius:6px;font-size:15px;display:inline-block;margin:2px;">GitHub</span>
-</p>
+### 🧠 *"I don't just build AI systems — I ask* why *they behave the way they do, then optimise them."*
 
 ---
 
-<h2 align="center">🐍 Contribution Grid Snake</h2>
+</div>
 
-<p align="center">
-  <img src="https://github.com/adityasinghcoding/adityasinghcoding/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-<p align="center">
-  <em>Are you happy to see this ?😢 Snake eating up all my daily contributions!</em>
-</p>
+## 👨‍💻 About Me
 
----
+I'm an **AI/ML Engineer** from Moradabad, UP, India — obsessed with turning research-grade ideas into production-grade systems. My work spans the complete ML lifecycle: raw data ingestion, model training, prompt engineering, RAG pipeline design, agentic orchestration, and end-to-end deployment.
 
-<h2 align="center">📊 GitHub Stats & Widgets</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghcoding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityasinghcoding&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasinghcoding&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityasinghcoding&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=15&no-frame=true"/>
-</p>
+- 🚀 Shipped: **[PolySensor](https://polysensor.vercel.app)** — a live agentic AI platform processing 108+ file formats with RAG-powered content intelligence
+- 🔬 Shipped: **[ACMA](https://acma-flame.vercel.app)** — a deployed multimodal content moderation system (F1: 0.91)
+- 🧩 Advisory: Designed enterprise AI architecture across 4 business functions for CL Gupta Exports Ltd.
+- 📖 Research habit: I read ML papers and translate findings directly into project implementations
+- 🥇 Off the screen: **8× Gold Medalist in Speed Skating** — discipline on ice, precision in code
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+## 🛠️ Tech Stack
+
+```python
+aditya = {
+    "LLMs & Agentic AI"   : ["LangChain", "LangGraph", "Google Gemini API", "OpenAI API", "Hugging Face"],
+    "ML & Deep Learning"  : ["PyTorch", "TensorFlow", "Keras", "Scikit-learn", "CNN", "YOLOv8"],
+    "NLP & Multimodal"    : ["RAG", "ChromaDB", "OCR (Tesseract/EasyOCR)", "Speech Recognition", "NER"],
+    "Data & Pipelines"    : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "ETL Design", "SQL/SQLite"],
+    "Backend & Deployment": ["Flask", "FastAPI", "Docker", "Vercel", "Render", "Nginx", "Git"],
+    "Currently exploring" : ["Advanced Agentic Architectures", "LLM Fine-tuning at Scale"]
+}
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔵 [PolySensor](https://github.com/adityasinghcoding/PolySensor) · [Live ↗](https://polysensor.vercel.app)
+**Agentic AI · Multimodal · Production Deployed**
+
+End-to-end agentic pipeline that ingests and analyses **108+ file formats** — documents, images, audio, video — with multi-agent orchestration via LangChain.
+
+- 🧩 Advanced RAG with ChromaDB vector store + custom chunking
+- 🎙️ OCR (Tesseract) + Speech Recognition for unstructured media
+- ⚡ **80% reduction** in manual content review time
+- 🐳 Dockerised + deployed on Vercel (frontend) & Render (backend)
+- 📦 161 commits · 2 releases
+
+`Python` `LangChain` `Gemini API` `RAG` `ChromaDB` `React` `Flask` `Docker`
+
+</td>
+<td width="50%">
+
+### 🔴 [ACMA](https://github.com/adityasinghcoding/AI-Content-Moderation-Analysis-Final-Year-Project-) · [Live ↗](https://acma-flame.vercel.app)
+**AI Content Moderation · CNN + NLP · Final Year Project**
+
+Multimodal content moderation system detecting toxic, inappropriate and violent content across text, images, audio and video.
+
+- 🎯 **F1-Score: 0.91** via systematic hyperparameter tuning
+- 🧠 TF-IDF + toxicity classifier for text; CNN (299×299) for images
+- 🎥 Frame-level video analysis + speech-to-text audio pipeline
+- 🔌 REST API: `POST /detect_toxicity` for live integrations
+- 📦 70 commits · Dockerised
+
+`Python` `TensorFlow` `Keras` `CNN` `OpenCV` `EasyOCR` `Flask` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🟡 Enterprise AI Architecture
+**Advisory · CL Gupta Exports Ltd. · 2024**
+
+Comprehensive AI integration across 4 business functions for a mid-size export manufacturing firm.
+
+- 👥 HR anomaly detection — Isolation Forest
+- 📦 Customs doc intelligence — LangChain + pdfplumber → MS SQL Server (no LLM dependency)
+- 📈 Demand forecasting — Facebook Prophet
+- 👁️ Visual QC — YOLOv8
+- 🔁 Attrition prediction — XGBoost
+
+`XGBoost` `Prophet` `YOLOv8` `LangChain` `pdfplumber` `pyodbc` `MS SQL Server`
+
+</td>
+<td width="50%">
+
+### 🟢 ML Internship @ CodSoft · [Certificate](https://github.com/adityasinghcoding/CERTIFICATES)
+**Production ML · 3 Domains · 50,000+ Records**
+
+Built and evaluated three production-ready ML models across distinct problem types.
+
+- 📉 Customer Churn Prediction — **86% accuracy**
+- 🎬 Movie Genre Classification — **77% precision** (multi-label NLP)
+- 📧 SMS Spam Detection — **97% accuracy** (binary classification)
+- ⚡ 20% reduction in training pipeline time via optimised data loading
+
+`Scikit-learn` `Pandas` `NLP` `TF-IDF` `Jupyter` · Aug 2023
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="mailto:adityabussinesslimited@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/adityasingh2022" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-<!--   <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
-  </a> -->
-  <a href="[https://github.com/adityasinghcoding/](https://adityasinghcoding.github.io/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white">
-  </a>
-<!--   <a href="https://dev.to/your-devto" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a> -->
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityasinghcoding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghcoding&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasinghcoding&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasinghcoding&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🐍 Python for Data Science | IBM | 2024 |
+| 🤖 Data Science & Machine Learning | ShapeMySkills | 2023 |
+| 📐 Machine Learning | NPTEL / IIT Kharagpur | 2023 |
+| 🗄️ Database Management Systems | NPTEL / IIT Kharagpur | — |
+| ☕ Java Programming | NPTEL / IIT Kharagpur | — |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+[![Snake animation](https://github.com/adityasinghcoding/adityasinghcoding/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/adityasinghcoding/adityasinghcoding)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityasingh2022)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityasinghcoding.github.io)
+[![PolySensor](https://img.shields.io/badge/PolySensor-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://polysensor.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityabussinesslimited@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7525-0423)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+skating on ice taught me precision  ·  AI taught me scale  ·  shipping taught me everything else
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=adityasinghcoding&color=00d9ff&style=flat-square&label=Profile+Views)
+
 </div>
