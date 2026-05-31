@@ -139,7 +139,7 @@ Built and evaluated three production-ready ML models across distinct problem typ
 |---|---|---|
 | 🐍 Python for Data Science | IBM | 2023 |
 | 🤖 Data Science & Machine Learning | ShapeMySkills | 2023 |
-| 📐 Machine Learning | NPTEL / IIT Kharagpur | 2023 |
+| 📐 Machine Learning | NPTEL / IIT Kharagpur | 2022 |
 | 🗄️ Database Management Systems | NPTEL / IIT Kharagpur | 2023 |
 | ☕ Java Programming | NPTEL / IIT Kharagpur | 2021 |
 
