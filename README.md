@@ -85,7 +85,7 @@ Multimodal content moderation system detecting toxic, inappropriate and violent 
 <td width="50%">
 
 ### 🟡 Enterprise AI Architecture
-**Advisory · CL Gupta Exports Ltd. · 2024**
+**Advisory · CL Gupta Exports Ltd. · 2026**
 
 Comprehensive AI integration across 4 business functions for a mid-size export manufacturing firm.
 
@@ -137,11 +137,11 @@ Built and evaluated three production-ready ML models across distinct problem typ
 
 | Certification | Issuer | Year |
 |---|---|---|
-| 🐍 Python for Data Science | IBM | 2024 |
+| 🐍 Python for Data Science | IBM | 2023 |
 | 🤖 Data Science & Machine Learning | ShapeMySkills | 2023 |
 | 📐 Machine Learning | NPTEL / IIT Kharagpur | 2023 |
-| 🗄️ Database Management Systems | NPTEL / IIT Kharagpur | — |
-| ☕ Java Programming | NPTEL / IIT Kharagpur | — |
+| 🗄️ Database Management Systems | NPTEL / IIT Kharagpur | 2023 |
+| ☕ Java Programming | NPTEL / IIT Kharagpur | 2021 |
 
 ---
 
